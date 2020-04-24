@@ -1,3 +1,9 @@
 [submodule "SDP_Real_Learning"]
 	path = SDP_Real_Learning
 	url = https://github.com/akhm123/SDP_Real_Learning.git
+[submodule "Real_Learning_User/x"]
+	path = Real_Learning_User/x
+	url = https://github.com/akhm123/x.git
+[submodule "Real_Learning_Admin/X1"]
+	path = Real_Learning_Admin/X1
+	url = https://github.com/akhm123/X1.git
